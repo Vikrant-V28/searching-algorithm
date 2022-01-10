@@ -1,4 +1,3 @@
-# searching algorithms
 # Binary Search
 * Binary Search is searching the sorted list by repeatedly dividing the search interval in half.
 * We will use recursion to implement the algorithm.
